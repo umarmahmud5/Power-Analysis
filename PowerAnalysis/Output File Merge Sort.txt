@@ -1,0 +1,1338 @@
+***********************************
+***********************************
+
+STARTING TESTS
+Available processors cores are: 2
+Available memory bytes avilable to JVM are: 251396096
+
+
+CONDUCTING TEST NUMBER 1
+
+
+Size of array is: 1000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (14 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3412740381981
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (15 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 2
+
+
+Size of array is: 2000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (15 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3414508276557
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (17 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 3
+
+
+Size of array is: 3000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (17 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3416958821490
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (19 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 4
+
+
+Size of array is: 4000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (20 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3420899655028
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (23 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 5
+
+
+Size of array is: 5000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (24 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3424933114800
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (27 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 6
+
+
+Size of array is: 6000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (28 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3429749879348
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (32 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 7
+
+
+Size of array is: 7000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (33 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3435367628225
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (38 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 8
+
+
+Size of array is: 8000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (38 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3441743645106
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (44 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 9
+
+
+Size of array is: 9000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (45 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3448844894504
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (51 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 10
+
+
+Size of array is: 10000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (52 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3456787330829
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (59 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 11
+
+
+Size of array is: 11000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (60 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3465502939916
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (68 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 12
+
+
+Size of array is: 12000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (69 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3474969180561
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (77 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 13
+
+
+Size of array is: 13000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (78 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3485147502888
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (87 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 14
+
+
+Size of array is: 14000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (88 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3496046409656
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (98 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 15
+
+
+Size of array is: 15000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (99 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3508185269842
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (111 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+
+
+CONDUCTING TEST NUMBER 16
+
+
+Size of array is: 16000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:56:45 PKT ت 11 فروري 2019 (112 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.7712 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             13.015 V
+    percentage:          76%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861005	76.000	charging
+  History (rate):
+    1549861005	0.000	discharging
+    1549861005	17.788	charging
+
+END time of algorithm in nanoseconds is: 3521449083139
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (4 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+
+
+CONDUCTING TEST NUMBER 17
+
+
+Size of array is: 17000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (5 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+END time of algorithm in nanoseconds is: 3534839619464
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (17 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+
+
+CONDUCTING TEST NUMBER 18
+
+
+Size of array is: 18000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (18 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+END time of algorithm in nanoseconds is: 3548989162293
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (31 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+
+
+CONDUCTING TEST NUMBER 19
+
+
+Size of array is: 19000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (33 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+END time of algorithm in nanoseconds is: 3564039969034
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (46 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+
+
+CONDUCTING TEST NUMBER 20
+
+
+Size of array is: 20000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (48 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+END time of algorithm in nanoseconds is: 3579763754510
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (62 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+
+
+CONDUCTING TEST NUMBER 21
+
+
+Size of array is: 21000000
+START state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (63 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+
+END time of algorithm in nanoseconds is: 3596550437719
+END state of battery
+  native-path:          BAT0
+  vendor:               Hewlett-Packard
+  model:                Primary
+  power supply:         yes
+  updated:              و 09:58:45 PKT ت 11 فروري 2019 (79 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.416 Wh
+    energy-empty:        0 Wh
+    energy-full:         37.6512 Wh
+    energy-full-design:  65.49 Wh
+    energy-rate:         0 W
+    voltage:             12.144 V
+    percentage:          75%
+    capacity:            57.4915%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1549861125	75.000	discharging
+

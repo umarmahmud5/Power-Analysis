@@ -18,9 +18,7 @@ public class PowerAnalysis {
 
     private final Runtime runTime;
     private final WriteInFile fileWriter;
-    private RecursiveFactorial recurFact;
-    //private InsertionSort insertionSorter;
-    private MergeSort mergeSorter;
+    private InsertionSort insertionSorter;
     private int[] sortingArray;
     private Random randomNumber;
     private Process processInfo;
@@ -31,49 +29,10 @@ public class PowerAnalysis {
         runTime = Runtime.getRuntime();
         fileWriter.writeInFile("Available processors cores are: " + Runtime.getRuntime().availableProcessors());
         fileWriter.writeInFile("Available memory bytes avilable to JVM are: " + Runtime.getRuntime().maxMemory());
-        //executeSort(1000000,21);
-        calculateFactorial(100, 25);
+        executeSort(1000000,12);
         fileWriter.closeWriting();
     }
-
-    private void calculateFactorial(long number, int repNumber) {
-        recurFact = new RecursiveFactorial();
-        for (int i = 0; i < repNumber; i++) {
-            number = 1000 * (i + 1);
-            fileWriter.writeInFile("\n");
-            fileWriter.writeInFile("CONDUCTING TEST NUMBER " + (i + 1));
-            fileWriter.writeInFile("\n");
-            System.out.println(number);
-            fileWriter.writeInFile("Number is: " + number);
-            fileWriter.writeInFile("START time of algorithm in nanoseconds is: " + System.nanoTime());
-            fileWriter.writeInFile("START state of battery");
-            try {
-                processInfo = runTime.exec("upower -i /org/freedesktop/UPower/devices/battery_BAT0");
-                stdInput = new BufferedReader(new InputStreamReader(processInfo.getInputStream()));
-                String line;
-                while ((line = stdInput.readLine()) != null) {
-                    fileWriter.writeInFile(line);
-                }
-            } catch (IOException e) {
-                System.err.println("Error from reading console");
-            }
-            recurFact.factorial(number);
-            fileWriter.writeInFile("END time of algorithm in nanoseconds is: " + System.nanoTime());
-            fileWriter.writeInFile("END state of battery");
-            try {
-                processInfo = runTime.exec("upower -i /org/freedesktop/UPower/devices/battery_BAT0");
-                stdInput = new BufferedReader(new InputStreamReader(processInfo.getInputStream()));
-                String line;
-                while ((line = stdInput.readLine()) != null) {
-                    fileWriter.writeInFile(line);
-                }
-            } catch (IOException e) {
-                System.err.println("Error from reading console");
-            }
-            
-        }
-    }
-
+    
     private void executeSort(int startSize, int repNumber) {
         randomNumber = new Random();
         int arraySize;
@@ -86,7 +45,7 @@ public class PowerAnalysis {
             fileWriter.writeInFile("Size of array is: " + arraySize);
             sortingArray = new int[arraySize];
             randomlyFillData();
-            //fileWriter.writeInFile("START time of algorithm in nanoseconds is: " + System.nanoTime());
+            fileWriter.writeInFile("START time of algorithm in nanoseconds is: " + System.nanoTime());
             fileWriter.writeInFile("START state of battery");
             try {
                 processInfo = runTime.exec("upower -i /org/freedesktop/UPower/devices/battery_BAT0");
@@ -98,7 +57,7 @@ public class PowerAnalysis {
             } catch (IOException e) {
                 System.err.println("Error from reading console");
             }
-            mergeSorter = new MergeSort(sortingArray);
+            insertionSorter = new InsertionSort(sortingArray);
             fileWriter.writeInFile("END time of algorithm in nanoseconds is: " + System.nanoTime());
             fileWriter.writeInFile("END state of battery");
             try {

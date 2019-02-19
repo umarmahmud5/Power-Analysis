@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  *
- * @author Umar Mahmud
+ * @author Umar Mahmud VIII-II-MMXIX
  */
 public class PowerAnalysis {
 

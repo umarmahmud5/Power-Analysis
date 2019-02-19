@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author Umar
+ * @author Umar Mahmud VIII-II-MMXIX
  */
 public class WriteInFile {
 

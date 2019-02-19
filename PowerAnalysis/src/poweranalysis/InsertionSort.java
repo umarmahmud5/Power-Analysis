@@ -7,7 +7,7 @@ package poweranalysis;
 
 /**
  *
- * @author Umar
+ * @author Umar Mahmud - VIIII-II-MMXIX
  */
 public class InsertionSort {
     protected InsertionSort(int sortingArray[]){

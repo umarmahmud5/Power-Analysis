@@ -29,7 +29,7 @@ public class PowerAnalysis {
         runTime = Runtime.getRuntime();
         fileWriter.writeInFile("Available processors cores are: " + Runtime.getRuntime().availableProcessors());
         fileWriter.writeInFile("Available memory bytes avilable to JVM are: " + Runtime.getRuntime().maxMemory());
-        executeSort(1000000,12);
+        executeSort(1000000,12); //array start size and total number of increasing size repetitions
         fileWriter.closeWriting();
     }
     
